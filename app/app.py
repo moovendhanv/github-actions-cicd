@@ -1,1 +1,1 @@
-print('CI/CD Deployment version 1.0.3')
+print('CI/CD Deployment version 1.0.4')
